@@ -18,7 +18,7 @@
 		<div class="row mt-5">
 			<div class="col-lg text-center p-3" id="crt">
 				<span class="divtit">Create Customer</span>
-				<p class="desc text-justify">Select to create a customer.You will be able to choose this customer in future.</p>
+				<p class="desc text-justify">Select to create a customer. You will be able to choose this customer in future.</p>
 				<a href="/createuser.php">
                     <button type="submit" style="border-radius:25px;" class="btn pill">
                     	&nbsp;Create Customer&nbsp;
