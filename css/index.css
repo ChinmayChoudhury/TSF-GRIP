@@ -1,0 +1,49 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    /*color:red;*/
+}
+#maintit{
+	font-family: 'Merriweather',sans-serif;
+	font-weight: bolder;
+	font-size: 45px;
+
+}
+
+.row{
+	padding: 10px;
+	top: 25px;
+	/*left: 20px;*/
+}
+.main{
+	margin: 15px;
+	padding: 15px;
+}
+
+#crt{
+	background-color: #ffb26b;
+	border-radius: 15px;	
+}
+
+#selcust{
+	background-color: #ffb26b;
+	border-radius: 15px;
+}
+#transhist{
+	background-color: #ffb26b;
+	border-radius: 15px;	
+}
+.divtit{
+	font-family: 'Merriweather';
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+.btn{
+	background-color: #939b62;
+	
+	/*border-radius: 50%;*/
+}
+.pill{
+	border-radius: 25px;
+}

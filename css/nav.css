@@ -1,0 +1,14 @@
+.navbar{
+	background-color: #ff7b54;
+}
+li, a, ul {
+    font-family: 'Muli', sans-serif;
+    color: black;
+
+}
+/*.navbar-nav a{
+	border-bottom: 3px solid #ff7b54;
+}*/
+.navbar-nav a:hover{
+	border-bottom: 3px solid #ffd56b;
+}
